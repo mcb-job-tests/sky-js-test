@@ -1,0 +1,18 @@
+{
+  "name": "sky",
+  "version": "1.0.0",
+  "main": "redeemService.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha ./redeemService-test.js"
+  },
+  "keywords": [],
+  "author": "mike bell",
+  "license": "ISC",
+  "description": ""
+}
